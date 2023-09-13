@@ -1,0 +1,28 @@
+.topbar {
+    background-color: #ff8433;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 80px;
+    left: 0px;
+    padding-left: 10px;
+}
+
+.label {
+    font-size: 20px;
+    margin-left: -1%;
+}
+
+.value {
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+.body {
+    padding-left: 10px;
+    padding-top: 80px;
+}
+
+.story {
+    font-size: 16px;
+}

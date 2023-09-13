@@ -1,0 +1,33 @@
+.topbar {
+    background-color: #ff8433;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 80px;
+    left: 0px;
+    padding-left: 10px;
+}
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.projectName{
+    padding-top:80px;
+}
+
+.pledge {
+    padding-left:10px;
+}
+
+.p {
+    font-size: 15px;
+}
+
+.req {
+    font-size: 15px;
+    color: "ff0000";
+}

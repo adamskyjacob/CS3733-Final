@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+.topbar {
+    background-color: #ff8433; /* Home depot color is #f96302, and this is clearly very different. Don't sue. */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    left: 0px;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.sidebar {
+    background-color: #ccc;
+	position: fixed;
+    width: 30%;
+	margin-top: 20%;
+    margin-left: -1%;
+    padding: 20px;
+}
+
+.search{
+    padding-top: 70px;
+    padding-left: 10px;
+}
+
+.text {
+	font-size: 16px;
+}
+
+.results {
+    margin-top: 5%;
+}

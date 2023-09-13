@@ -1,0 +1,43 @@
+.topbar {
+    background-color: #ff8433;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 70px;
+    left: 0px;
+    font-size:30px;
+    padding-top:20px;
+}
+
+.info {
+    text-align: left;
+}
+
+.sidebarVPD {
+    background-color: #ccc;
+    width: 400px;
+    padding-left:20px;
+    padding-top: 70px;
+    margin-top:10px;
+    height: 880px;
+    display: inline-block;
+}
+
+.descriptionVPD {
+    position: absolute;
+    display: inline-block;
+    background-color: #f1f1f1;
+    width: 100%;
+    margin-left: 320px;
+    padding-top: 85px;
+    padding-left: 40px;
+    height:890px;
+}
+
+.label {
+    font-size: 20px;
+}
+
+.value {
+    font-size: 17px;
+}
